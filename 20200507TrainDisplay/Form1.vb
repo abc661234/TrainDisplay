@@ -2,8 +2,8 @@
 '一個中文字寬度82
 Imports System.IO
 Public Class Form1
-    Dim ChineseStation(FormStart.BusStop) As String ' = {"烏日", "大慶", "五權", "臺中", "精武", "太原"}
-    Dim EnglishStation(FormStart.BusStop) As String ' = {"Wuri", "Daqing", "Wuchuan", "Taichung", "Jingwu", "Taiyuan"}
+    Dim ChineseStation(FormStart.BusStop) As String
+    Dim EnglishStation(FormStart.BusStop) As String
     Dim blink = 0
     Dim second = 0
     Dim StationDisplayTime = 0
