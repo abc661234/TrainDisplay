@@ -1,0 +1,37 @@
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.exe.config
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.exe
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.pdb
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.xml
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.Form1.resources
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.Resources.resources
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.exe
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.xml
+C:\Users\user\source\repos\20200507TrainDisplay\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.pdb
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.exe.config
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.exe
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.pdb
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.xml
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.Form1.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.FormStart.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.Resources.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.exe
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.xml
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.pdb
+C:\Users\user\source\repos\20200507TrainDisplay - Start\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.FormReadme.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.exe.config
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.exe
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.pdb
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\bin\Debug\20200507TrainDisplay.xml
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.Form1.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.FormReadme.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.FormStart.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\_20200507TrainDisplay.Resources.resources
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.exe
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.xml
+C:\Users\user\source\repos\20200507TrainDisplay - Start2\20200507TrainDisplay\obj\Debug\20200507TrainDisplay.pdb
